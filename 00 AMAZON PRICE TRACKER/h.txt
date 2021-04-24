@@ -1,0 +1,23 @@
+1st Script (price tracker & add to cart):
+1- take links as query
+2- scrape results based on query
+3- show results
+4- ask you to choose what to add to cart
+5- add what you ask for into the cart
+6- track links for new addition
+7- if new product comes alert for adding to cart
+9- add to cart if selected
+
+
+2nd Script(auto buy):
+1- take link/productID as query
+2- track links for stock
+3- add to cart if product comes in stock
+4- checkout with predefined address and payment method
+
+
+3rd Script:
+1- take links/productID as query
+2- scrape results based on query
+3- track for price changes of product
+4- alert/autobuy based on predefined price or, conditions
